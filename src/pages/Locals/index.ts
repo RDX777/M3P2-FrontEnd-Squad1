@@ -1,0 +1,1 @@
+export { Locals } from './Locals';

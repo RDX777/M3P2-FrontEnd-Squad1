@@ -1,0 +1,23 @@
+.active {
+  color: #00a335;
+  font-size: 14px;
+  padding: 0 50px 16px 0;
+  border-bottom: 1px solid #9395a3;
+  cursor: pointer;
+  text-decoration: none;
+  margin-bottom: 16px;
+}
+
+.notActive {
+  color: #9395a3;
+  font-size: 14px;
+  padding: 0 50px 16px 0;
+  border-bottom: 1px solid #9395a3;
+  cursor: pointer;
+  text-decoration: none;
+  margin-bottom: 16px;
+}
+
+.notActive:hover {
+  color: #00a335;
+}

@@ -1,0 +1,1 @@
+export { IconNoData } from './IconNoData';
